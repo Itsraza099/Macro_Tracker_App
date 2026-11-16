@@ -2,6 +2,8 @@
 
 A mobile-first calorie and macro tracker. Log food by typing what you ate, scanning a barcode or photographing a nutrition label, check the numbers, and watch your day fill up. Installable as a PWA, with light and dark themes and a layout that adapts from phone to desktop.
 
+**[Live demo →](https://macro-tracker-app-hazel.vercel.app)**
+
 **This repository is the demo build.** It runs entirely in the browser on seeded sample data, so there is nothing to sign up for and no keys to configure. Anything you log is stored in your own browser's `localStorage` and never leaves your device.
 
 | Today | Trends |
@@ -14,6 +16,8 @@ A mobile-first calorie and macro tracker. Log food by typing what you ate, scann
 </p>
 
 ## Try it
+
+The quickest way is the [live demo](https://macro-tracker-app-hazel.vercel.app); it works well on a phone too. To run it yourself:
 
 ```bash
 git clone https://github.com/Itsraza099/Macro_Tracker_App.git
