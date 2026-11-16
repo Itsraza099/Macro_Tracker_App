@@ -1,8 +1,12 @@
 # Macro Tracker
 
-A mobile-first calorie and macro tracker. Log food by typing what you ate, scanning a barcode or photographing a nutrition label, check the numbers, and watch your day fill up. Installable as a PWA, with light and dark themes and a layout that adapts from phone to desktop.
+[![Live demo](https://img.shields.io/badge/live%20demo-open-1f6b4f?style=for-the-badge&logo=vercel&logoColor=white)](https://macro-tracker-app-hazel.vercel.app)
+![Next.js 15](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
-**[Live demo →](https://macro-tracker-app-hazel.vercel.app)**
+A mobile-first calorie and macro tracker. Log food by typing what you ate, scanning a barcode or photographing a nutrition label, check the numbers, and watch your day fill up. Installable as a PWA, with light and dark themes and a layout that adapts from phone to desktop.
 
 **This repository is the demo build.** It runs entirely in the browser on seeded sample data, so there is nothing to sign up for and no keys to configure. Anything you log is stored in your own browser's `localStorage` and never leaves your device.
 
