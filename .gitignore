@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
+
+# local env
+.env*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# generated PWA files
+public/sw.js
+public/workbox-*.js
+public/swe-worker-*.js
+public/*.js.map
